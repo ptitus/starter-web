@@ -1,0 +1,1 @@
+f you ran the commands on the getting started overview page, then you've already installed a box before, and you do not need to run the commands below again. However, it is still worth reading this section to learn more about how boxes are managed.
