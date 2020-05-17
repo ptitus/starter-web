@@ -1,1 +1,0 @@
-This will download the box named "hashicorp/bionic64" from HashiCorp's Vagrant Cloud box catalog, a place where you can find and host boxes. While it is easiest to download boxes from HashiCorp's Vagrant Cloud you can also add boxes from a local file, custom URL, etc.
